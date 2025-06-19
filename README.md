@@ -1,1 +1,1 @@
-# pythom_internship_task1
+# python_internship_task1
